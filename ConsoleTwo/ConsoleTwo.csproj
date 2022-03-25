@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MyLib\MyLib.csproj" />
+    <ProjectReference Include="..\TaskTwo\FuncLib.csproj" />
   </ItemGroup>
 
 </Project>

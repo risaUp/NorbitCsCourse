@@ -1,47 +1,47 @@
 ﻿using System;
 
-namespace ClassLibrary
+namespace MyLib
 {
-    ///<summary>
-    ///вычисления на основе заданых значений
-    ///</summary>
     public static class StringLibrary
     {
-        ///<summary>
-        ///Вывод квадрата звёзд с пустым центром
-        ///</summary>
+        /// <summary>
+        /// На основании принятых от пользователя данных производит вычисления.
+        /// </summary>
         public static void SquareStars(this int N)
         {
-
-            for (int i = 0; i <= N; i++)
+            /// <summary>
+            /// Вывод квадрата из звёзд.
+            /// </summary>
+            int center = N / 2;
+            for (int i = 0; i < N; i++)
             {
-                for (int j = 0; j <= N; i++)
+                for (int j = 0; j < N; j++)
                 {
-                    if ((i == j) && (i == (N / 2))) {
-                        Console.Write(" ");
-                    }
-                    else
+                    Console.Write(
+                        (i == center && j == center)
+                         ? "   "
+                         : " * ");
+                }
+            }
+        }
+        public static void OrderNum(this int N)
+        {
 
-                        Console.Write("*");
+            /// <summary>
+            /// вывод перечесления цифр через запятую.
+            /// </summary>
+            for (int i = 1; i <= N; i++)
+            {
+                if (i == N)
+                {
+                    Console.Write(i + ".");
+                }
+                else
+                {
+                    Console.Write(i + ", ");
                 }
             }
         }
 
-        public static void ОrderNum(this int N)
-        {
-
-        for (int i = 1; i <= N; i++)
-        {
-            if (i == N)
-            {
-                Console.Write(i + ".");
-            }
-            else
-            {
-                Console.Write(i + ", ");
-            }
-        }
-        }
     }
 }
-

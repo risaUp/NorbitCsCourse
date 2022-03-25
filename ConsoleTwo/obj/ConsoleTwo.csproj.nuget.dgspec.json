@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\ConsoleTwo\\ConsoleTwo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\ConsoleTwo\\ConsoleTwo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\ConsoleTwo\\ConsoleTwo.csproj",
+        "projectName": "ConsoleTwo",
+        "projectPath": "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\ConsoleTwo\\ConsoleTwo.csproj",
+        "packagesPath": "C:\\Users\\shado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\ConsoleTwo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\TaskTwo\\FuncLib.csproj": {
+                "projectPath": "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\TaskTwo\\FuncLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\TaskTwo\\FuncLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\TaskTwo\\FuncLib.csproj",
+        "projectName": "FuncLib",
+        "projectPath": "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\TaskTwo\\FuncLib.csproj",
+        "packagesPath": "C:\\Users\\shado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shado\\source\\repos\\NorbitCsCourse\\TaskTwo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,5 +1,5 @@
 ﻿using System;
-using ClassLibrary;
+using MyLib;
 
 namespace ConsoleE
 {
@@ -7,10 +7,10 @@ namespace ConsoleE
     {
         static void Main(string[] args)
         {
-            int N = GetValueFromUser("Введите целое положительное число.");
+            int N = GetValueFromUser("Введите целое положительное число:");
             N.SquareStars();
-            N = GetValueFromUser("Введите длину квадрата. ");
-            N.ОrderNum();
+            N = GetValueFromUser("Введите длину стороны квадрата: ");
+            N.OrderNum();
         }
 
         private static int GetValueFromUser(string message)

@@ -1,0 +1,12 @@
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\bin\Debug\net5.0\FuncLib.deps.json
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\bin\Debug\net5.0\FuncLib.dll
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\bin\Debug\net5.0\ref\FuncLib.dll
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\bin\Debug\net5.0\FuncLib.pdb
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\obj\Debug\net5.0\FuncLib.csproj.AssemblyReference.cache
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\obj\Debug\net5.0\FuncLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\obj\Debug\net5.0\FuncLib.AssemblyInfoInputs.cache
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\obj\Debug\net5.0\FuncLib.AssemblyInfo.cs
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\obj\Debug\net5.0\FuncLib.csproj.CoreCompileInputs.cache
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\obj\Debug\net5.0\FuncLib.dll
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\obj\Debug\net5.0\ref\FuncLib.dll
+C:\Users\shado\source\repos\NorbitCsCourse\TaskTwo\obj\Debug\net5.0\FuncLib.pdb
